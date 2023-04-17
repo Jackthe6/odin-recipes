@@ -1,0 +1,11 @@
+* {
+    background-color:black;
+    color:white;
+}
+
+.spaghetti, .crabcake, .alfredo
+{
+    font-size: 32px;
+    font-weight:800;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
