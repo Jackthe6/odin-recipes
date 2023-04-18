@@ -6,3 +6,8 @@
 .heading {
     color:rgb(204, 115, 7);
 }
+
+img {
+    width: 300px;
+    height: 300px;
+}
